@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kenjoel
 - 👀 I’m interested in Security Software Engineering
-- 🌱 I’m currently learning Qt for security 
-- 💞️ I’m looking to collaborate on Opensource security projects
+- 🌱 I’m currently learning Qt  
+- 💞️ I’m looking to collaborate on Opensource Security Projects
 - 📫 How to reach me jrjoemuigai@gmail.com
 
 <!---
